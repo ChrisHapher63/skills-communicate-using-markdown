@@ -7,3 +7,9 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+
+- [x] Establish dominance over the program
+- [ ] Take over the entirety of the program over time
+- [ ] Go to Walmart
+      
